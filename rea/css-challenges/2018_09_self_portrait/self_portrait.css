@@ -1,0 +1,9 @@
+.svg-wrapper {
+  text-align: center;
+}
+path {
+  transform: scale(1.8, 1.8)
+}
+path:hover {
+  fill: #FFFFFF !important;
+}
